@@ -14,3 +14,6 @@ From this
 To this 
 
 <img src="https://github.com/Rajathbharadwaj/dynamic-twitter-header-python/blob/master/pasted-twitter-banner.png"/>
+
+Just run 
+`python dynamic.py`
